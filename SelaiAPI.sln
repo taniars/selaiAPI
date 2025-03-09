@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAPI", "IdentityAPI\IdentityAPI.csproj", "{13EBB16A-6BB4-427F-BF94-9CEEDAEB8B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogAPI", "CatalogAPI\CatalogAPI.csproj", "{9D180788-921B-4957-B992-47A6C2B713EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EBB16A-6BB4-427F-BF94-9CEEDAEB8B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EBB16A-6BB4-427F-BF94-9CEEDAEB8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EBB16A-6BB4-427F-BF94-9CEEDAEB8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EBB16A-6BB4-427F-BF94-9CEEDAEB8B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D180788-921B-4957-B992-47A6C2B713EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D180788-921B-4957-B992-47A6C2B713EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D180788-921B-4957-B992-47A6C2B713EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D180788-921B-4957-B992-47A6C2B713EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
